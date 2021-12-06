@@ -21,7 +21,6 @@ class BlogController(Controller):
         blog = Blog.create({"title": subject, "body": details})
         return blog
 
-
     def update(self):
         title = self.request.input("title")
         body = self.request.input("body")
