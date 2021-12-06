@@ -1,0 +1,85 @@
+2021-12-05 23:26:40 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-05 23:26:40 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-05 23:26:40 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-05 23:30:04 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-05 23:45:02 - ERROR - SyntaxError in 0 on line 0
+2021-12-05 23:45:02 - ERROR - "GET /todos HTTP/1.1" 500 1041053
+2021-12-05 23:45:57 - WARNING - "GET /todos HTTP/1.1" 404 1536
+2021-12-05 23:45:57 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-05 23:45:57 - WARNING - "GET /todos HTTP/1.1" 404 1536
+2021-12-05 23:45:57 - WARNING - "GET /todos/1 HTTP/1.1" 404 1536
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-05 23:45:57 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-05 23:47:20 - ERROR - ResponseError in 0 on line 0
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-05 23:53:29 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-05 23:53:29 - INFO - "GET /blogs/ HTTP/1.1" 200 2
+2021-12-06 00:00:13 - ERROR - NameError in /Users/seb/development/seir_penguin/Masonite_blog/backend/app/http/controllers/BlogController.py on line 21
+2021-12-06 00:00:13 - ERROR - "POST /blogs HTTP/1.1" 500 974274
+2021-12-06 00:00:45 - WARNING - "POST /blogs/1 HTTP/1.1" 404 1536
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-06 00:00:45 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-06 00:00:49 - ERROR - QueryException in 0 on line 0
+2021-12-06 00:00:49 - ERROR - "POST /blogs HTTP/1.1" 500 983644
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-06 00:01:33 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-06 00:01:33 - INFO - "POST /blogs HTTP/1.1" 200 175
+2021-12-06 00:03:54 - WARNING - "PUT /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - WARNING - "PUT /0 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-06 00:03:54 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-06 00:03:54 - INFO - "GET /blogs/ HTTP/1.1" 200 177
+2021-12-06 00:03:54 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-06 00:03:54 - WARNING - "PUT /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - WARNING - "PUT /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - WARNING - "PUT / HTTP/1.1" 405 1554
+2021-12-06 00:03:54 - WARNING - "PUT /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - INFO - "GET /blogs/1 HTTP/1.1" 200 175
+2021-12-06 00:03:54 - WARNING - "GET /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - WARNING - "GET /1 HTTP/1.1" 404 1536
+2021-12-06 00:03:54 - INFO - "PUT /blogs/1 HTTP/1.1" 200 134
+2021-12-06 00:03:54 - INFO - "GET /blogs/ HTTP/1.1" 200 134
+2021-12-06 00:03:54 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-06 00:13:48 - ERROR - NameError in /Users/seb/development/seir_penguin/Masonite_blog/backend/app/http/controllers/BlogController.py on line 34
+2021-12-06 00:13:48 - ERROR - "DELETE /blogs/1 HTTP/1.1" 500 974932
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-06 00:18:49 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-06 00:18:49 - INFO - "DELETE /blogs/1 HTTP/1.1" 200 134
+2021-12-06 00:18:49 - INFO - "GET /blogs/ HTTP/1.1" 200 2
+2021-12-06 00:18:49 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
